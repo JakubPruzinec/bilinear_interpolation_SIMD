@@ -1,0 +1,17 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Media info gatherer}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Perceptual hashes}{section.1}% 3
+\BOOKMARK [2][-]{subsection.1.3}{Average hash}{section.1}% 4
+\BOOKMARK [2][-]{subsection.1.4}{Similarity matric}{section.1}% 5
+\BOOKMARK [2][-]{subsection.1.5}{Bilinear interpolation}{section.1}% 6
+\BOOKMARK [1][-]{section.2}{Design}{}% 7
+\BOOKMARK [2][-]{subsection.2.1}{Bitmap parser}{section.2}% 8
+\BOOKMARK [2][-]{subsection.2.2}{Na\357ve bilinear interpolation algorithm}{section.2}% 9
+\BOOKMARK [2][-]{subsection.2.3}{Sequential bilinear interpolation algorithm}{section.2}% 10
+\BOOKMARK [2][-]{subsection.2.4}{Parallel bilinear interpolation algorithm}{section.2}% 11
+\BOOKMARK [1][-]{section.3}{Implementation}{}% 12
+\BOOKMARK [2][-]{subsection.3.1}{Compilation and execution}{section.3}% 13
+\BOOKMARK [2][-]{subsection.3.2}{Resizing codes}{section.3}% 14
+\BOOKMARK [1][-]{section.4}{Performance analysis}{}% 15
+\BOOKMARK [1][-]{section.5}{Conclusion}{}% 16
+\BOOKMARK [1][-]{section.6}{Resources}{}% 17
